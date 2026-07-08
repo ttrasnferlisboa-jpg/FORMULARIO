@@ -1,0 +1,5 @@
+App: formulario
+Source: dev/sources/Formulaire_Client_Transferts.html
+Hotel: Nhalabene
+Slug: nhalabene-lisboa
+Rebuild: build.ps1

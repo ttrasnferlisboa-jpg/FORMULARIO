@@ -1,0 +1,22 @@
+{
+    "description":  "Nhalabene",
+    "short_name":  "Nhalabene Form",
+    "background_color":  "#080d1a",
+    "icons":  [
+                  {
+                      "type":  "image/png",
+                      "sizes":  "192x192",
+                      "src":  "icon-192.png"
+                  },
+                  {
+                      "type":  "image/png",
+                      "sizes":  "512x512",
+                      "src":  "icon-512.png"
+                  }
+              ],
+    "theme_color":  "#080d1a",
+    "display":  "standalone",
+    "name":  "Nhalabene - formulario",
+    "scope":  "./",
+    "start_url":  "./index.html"
+}
